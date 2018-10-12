@@ -6,7 +6,6 @@ import javax.persistence.Persistence;
 public class VeiculoTest {
 
 	public static void main(String[] args) {
-		
 		Veiculo edit = new Veiculo();
 		edit.setPlaca("ASF1210");
 		edit.setAno(2018);
